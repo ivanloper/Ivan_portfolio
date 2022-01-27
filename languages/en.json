@@ -1,0 +1,17 @@
+{
+    "profile": {
+    "rol": "Front-end Developer",
+    "description": "Hello my name is Iván, I am passionate about technology in general, also about graphic/web design, UXUI, web development, photo and video editing, I have studied 2 FP of Computer Science: middle and upper level. Professionally I have worked as a web developer/designer, systems technician and photo and video editor."
+    },
+    "experience": {
+        "first-job-title": "Front-end Developer",
+        "first-job-dates": "January 1995 - January 2000",
+        "first-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
+        "second-job-title": "Front-end Developer",
+        "second-job-dates": "February 2000 - March 2005",
+        "second-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
+        "last-job-title": "Front-end Developerd",
+        "last-job-dates": "February 2017 - Currently",
+        "last-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit."
+    }
+}

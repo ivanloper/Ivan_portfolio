@@ -1,0 +1,17 @@
+{
+    "profile": {
+    "rol": "Desarrollador Front-end",
+    "description": "Hola me llamo Iván, soy un apasionado de la tecnología en general, también del diseño gráfico/web, UXUI, desarrollo web, edición de fotografía y video, he estudiado 2 FP de Informática: Grado medio y superior. De manera profesional he trabajado como desarrollador web/diseñador, técnico de sistemas y editor de fotografía y video."
+    },
+    "experience": {
+        "first-job-title": "Desarrollador Front-end",
+        "first-job-dates": "Enero 1995 - Enero 2000",
+        "first-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
+        "second-job-title": "Desarrollador Front-end",
+        "second-job-dates": "Febrero 2000 - Marzo 2005",
+        "second-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
+        "last-job-title": "Desarrollador Front-end",
+        "last-job-dates": "Febrero 2017 - Actualmente",
+        "last-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit."
+    }
+}
