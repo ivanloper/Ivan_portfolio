@@ -1,17 +1,23 @@
 {
     "profile": {
-    "rol": "Front-end Developer",
-    "description": "Hello my name is Iván, I am passionate about technology in general, also about graphic/web design, UXUI, web development, photo and video editing, I have studied 2 FP of Computer Science: middle and upper level. Professionally I have worked as a web developer/designer, systems technician and photo and video editor."
+    "rol": "IT System",
+    "description": "Hello my name is Iván, I am passionate about technology, cinema and travel, I studied computer science. I consider myself a multifaceted person, in a non-professional way I do things like design, online marketing, photography and video editing or at least I try to. <br><br>Currently I work as a computer scientist in a free mobile phone e-commerce company. Here below 👇👇 you can find out a bit more about what I've worked on."
     },
     "experience": {
-        "first-job-title": "Front-end Developer",
-        "first-job-dates": "January 1995 - January 2000",
-        "first-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
-        "second-job-title": "Front-end Developer",
-        "second-job-dates": "February 2000 - March 2005",
-        "second-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
-        "last-job-title": "Front-end Developerd",
-        "last-job-dates": "February 2017 - Currently",
-        "last-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit."
+        "prof": "Experience",
+        "first-job-title": "Computer technician",
+        "first-job-dates": "January 2022 - Current",
+        "first-job-description": "",
+        "second-job-title": "Content creator",
+        "second-job-dates": "YouTube channel: Cybertecnics<br> January 2016 - Current",
+        "second-job-description": "I teach tricks, tips and analysis of products that help you in your day to day life, all in the form of videos for YouTube.",
+        "last-job-title": "Systems technician",
+        "last-job-dates": "IRIUM <br> February 2019 - October 2021",
+        "last-job-description": "Computer maintenance of the ABC (Automated Border Control) equipment used by the National Police Force for the identification of persons at border entry and exit control."
+    },
+    "hobbies": {
+        "section": "Hobbies",
+        "hobbie-title": "Cinema and series",
+        "hobbie-text": "I am a fan of outdoor and indoor cinema and series, so much so that I have a projector to have a better experience."
     }
 }

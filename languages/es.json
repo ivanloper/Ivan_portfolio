@@ -1,17 +1,24 @@
 {
     "profile": {
-    "rol": "Desarrollador Front-end",
-    "description": "Hola me llamo Iván, soy un apasionado de la tecnología en general, también del diseño gráfico/web, UXUI, desarrollo web, edición de fotografía y video, he estudiado 2 FP de Informática: Grado medio y superior. De manera profesional he trabajado como desarrollador web/diseñador, técnico de sistemas y editor de fotografía y video."
+    "rol": "Técnico de sistemas",
+    "description": "Hola mi nombre es Iván, soy un apasionado de la tecnología, cine y de los viajes, estudie Informática. Me considero una persona polifacética, de manera no profesional hago cosas de diseño, marketing online edición de fotografía y vídeo o al menos lo intento. <br><br>Actualmente trabajo de informático en una empresa de comercio electrónico de telefonía móvil libre. Aquí abajo👇👇puedes conocer un poco más de lo que he trabajado."
     },
     "experience": {
-        "first-job-title": "Desarrollador Front-end",
-        "first-job-dates": "Enero 1995 - Enero 2000",
-        "first-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
-        "second-job-title": "Desarrollador Front-end",
-        "second-job-dates": "Febrero 2000 - Marzo 2005",
-        "second-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit.",
-        "last-job-title": "Desarrollador Front-end",
-        "last-job-dates": "Febrero 2017 - Actualmente",
-        "last-job-description": "Lorem ipsum dolor sit amet, consectetur, adipiscing elit."
+        "prof": "Experiencia",
+        "first-job-title": "Técnico informático",
+        "first-job-dates": "Maxmovil <br>Enero 2022 - Actualidad",
+        "first-job-description": "",
+        "second-job-title": "Creador de contenido",
+        "second-job-dates": "YouTube channel: Cybertecnics<br> January 2016 - Current ",
+        "second-job-description": "Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos.",
+        "last-job-title": "Técnico de sistemas",
+        "last-job-dates": "IRIUM <br> Febrero 2019 - Octubre 2021",
+        "last-job-description": "Mantenimiento informático de los equipos ABC (Automated Border Control) que utiliza El Cuerpo Nacional de Policía para la identificación de personas en el control de entrada y salida de fronteras."
+    },
+
+    "hobbies": {
+        "section": "Aficiones",
+        "hobbie-title": "Cine y series",
+        "hobbie-text": "Soy un fanático del cine al aire libre y en sala y de las series, tanto que tengo un proyector para tener una mejor experiencia."
     }
 }
