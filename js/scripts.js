@@ -12,8 +12,6 @@ const changeLanguage = async (language) => {
     const requestJson = await fetch(`./languages/${language}.json`);
     const texts = await requestJson.json();
 
-    
-    
      for (const textToChange of textsToChange) {
          console.log(textToChange);
         const section = textToChange.dataset.section;
@@ -21,15 +19,11 @@ const changeLanguage = async (language) => {
 
         textToChange.innerHTML = texts[section][value]; 
     } 
-
 };
-
 
 flagsElement.addEventListener("click", (e) => {
     changeLanguage(e.target.parentElement.dataset.language);
 });
-
-
 
 toggleTheme.addEventListener("click", () => {
     document.body.classList.toggle("dark");
@@ -40,7 +34,6 @@ toggleTheme.addEventListener("click", () => {
         toggleIcon.src = "assets/icons/moon.svg";
         toggleText.textContent = "Dark Mode";
     }
-
 });
 
 toggleColors.addEventListener('click', (e) => {
