@@ -1,7 +1,7 @@
 {
     "profile": {
-    "rol": "IT System",
-    "description": "Hello my name is Iván, I am passionate about technology, cinema and travel, I studied computer science. I consider myself a multifaceted person, in a non-professional way I do things like design, online marketing, photography and video editing or at least I try to. <br><br>Currently I work as a computer scientist in a free mobile phone e-commerce company. Here below 👇👇 you can find out a bit more about what I've worked on."
+    "rol": "IT System | Designer",
+    "description": "Hello my name is Ivan, I am passionate about technology, film and travel, I studied computer science. I consider myself a multifaceted person, in a non-professional way I have done things like design, web development, digital marketing, photography and video editing, or at least I try to.😄 <br><br> Below👇👇you can find out a bit more about what I have been working on."
     },
     "experience": {
         "prof": "Experience",
@@ -13,7 +13,7 @@
         "second-job-description": "I teach tricks, tips and analysis of products that help you in your day to day life, all in the form of videos for YouTube.",
         "last-job-title": "Systems technician",
         "last-job-dates": "IRIUM <br> February 2019 - October 2021",
-        "last-job-description": "Computer maintenance of the ABC (Automated Border Control) equipment used by the National Police Force for the identification of persons at border entry and exit control."
+        "last-job-description": "Computer maintenance of the ABC (Automated Border Control) equipment used by the National Police Force for the identification of persons at border entry and exit control. <br/><br/> Assembly, installation, diagnosis and maintenance of computer equipment and biometric readers, cloning/restoration and backups."
     },
     "hobbies": {
         "section": "Hobbies",

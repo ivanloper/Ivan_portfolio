@@ -1,19 +1,16 @@
 {
     "profile": {
-    "rol": "Técnico de sistemas",
-    "description": "Hola mi nombre es Iván, soy un apasionado de la tecnología, cine y de los viajes, estudie Informática. Me considero una persona polifacética, de manera no profesional hago cosas de diseño, marketing online edición de fotografía y vídeo o al menos lo intento. <br><br>Actualmente trabajo de informático en una empresa de comercio electrónico de telefonía móvil libre. Aquí abajo👇👇puedes conocer un poco más de lo que he trabajado."
+    "rol": "Técnico de sistemas | Diseñador",
+    "description": "Hola mi nombre es Iván, soy un apasionado de la tecnología, cine y de los viajes, estudie Informática. Me considero una persona polifacética, de manera no profesional he hecho cosas de diseño, desarrollo web, marketing digital edición de fotografía y vídeo o al menos lo intento.😄<br><br> Aquí abajo👇👇puedes conocer un poco más de lo que he trabajado."
     },
     "experience": {
         "prof": "Experiencia",
-        "first-job-title": "Técnico informático",
-        "first-job-dates": "Maxmovil <br>Enero 2022 - Actualidad",
-        "first-job-description": "",
         "second-job-title": "Creador de contenido",
-        "second-job-dates": "YouTube channel: Cybertecnics<br> January 2016 - Current ",
+        "second-job-dates": "YouTube channel: Cybertecnics<br> January 2016 - Actualidad ",
         "second-job-description": "Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos.",
         "last-job-title": "Técnico de sistemas",
         "last-job-dates": "IRIUM <br> Febrero 2019 - Octubre 2021",
-        "last-job-description": "Mantenimiento informático de los equipos ABC (Automated Border Control) que utiliza El Cuerpo Nacional de Policía para la identificación de personas en el control de entrada y salida de fronteras."
+        "last-job-description": "Mantenimiento informático de los equipos ABC (Automated Border Control) que utiliza El Cuerpo Nacional de Policía para la identificación de personas en el control de entrada y salida de fronteras.<br/><br/>Montaje, instalación, diagnóstico y mantenimiento de equipos informáticos y lectores biométricos, clonación/restauración y copias de seguridad."
     },
 
     "hobbies": {
