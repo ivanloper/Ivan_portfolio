@@ -17,7 +17,37 @@
     },
     "hobbies": {
         "section": "Hobbies",
-        "hobbie-title": "Cinema and series",
-        "hobbie-text": "I am a fan of outdoor and indoor cinema and series, so much so that I have a projector to have a better experience."
+        "hobbie-title": "Cinema and series🎥🎬",
+        "hobbie-text": "I am a fan of outdoor and indoor cinema and series, so much so that I have a projector to have a better experience.",
+        "hobbie-title2": "Travel🌍",
+        "hobbie-text2": "I love travelling, getting to know new cultures, customs, languages, food, etc."
+    },
+
+    "skills": {
+        "sector": "Front End Development",
+        "years": "Years of experience",
+        "rol": "Design",
+        "photography": "Photography"
+    },
+
+    "projects": {
+        "text-blog": "Website I use to write articles about technology, product reviews, applications, news, etc. I also show the equipment I use for work, leisure and video.",
+        "title-canalyt": "YouTube Content Creator: Cybertecnics",
+        "text-canalyt": "I teach tricks, tips and analysis of products that help you in your day to day life, I do all this in the form of videos for YouTube, taking the production and editing of photography and video, I create content on social networks, using online marketing strategies.",
+        "text-portfolio": "Portfolio with a different design from this one.",
+        "title-recipes": "Web Coffee Recipes",
+        "text-recipes": "This is a website I made to practice with CSS Flex.",
+        "title-frontstore": "Frontend T-Shirts Shop",
+        "text-frontstore": "I made this website to practice with CSS Grid.",
+        "title-banner": "My YouTube channel banner",
+        "text-banner": "I made this banner using Adobe Protoshop, to humanise my channel more, before I had a logo and to show from the beginning who is behind the camera.",
+        "title-oldbanner": "Old banner of my YouTube channel",
+        "text-oldbanner": "I made it using Adobe Protoshop, this was one of the first covers I made, this banner is no longer available.",
+        "title-miniatures": "Thumbnails for YouTube channel",
+        "text-miniatures" : "Creation of thumbnails for the YouTube videos that I have been uploading to my channel. I have applied my knowledge in design and digital marketing to make thumbnails as attractive as possible.",
+        "title-photomontage": "Photomontage",
+        "text-photomontage" : "Creation of a photomontage, I have always liked doing photo retouching and I wanted to represent the interaction we have with social networks.",
+        "title-photomontage2": "Photomontage",
+        "text-photomontage2" : "Creation of a photomontage, I'm a big fan of ice cream and trying with a photo I had, this came out and the truth is that it hasn't turned out bad at all 😄."
     }
 }

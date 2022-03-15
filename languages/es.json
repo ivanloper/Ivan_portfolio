@@ -15,7 +15,37 @@
 
     "hobbies": {
         "section": "Aficiones",
-        "hobbie-title": "Cine y series",
-        "hobbie-text": "Soy un fanático del cine al aire libre y en sala y de las series, tanto que tengo un proyector para tener una mejor experiencia."
+        "hobbie-title": "Cine y series🎥🎬",
+        "hobbie-text": "Soy un fanático del cine al aire libre y en sala y de las series, tanto que tengo un proyector para tener una mejor experiencia.",
+        "hobbie-title2": "Viajar🌍",
+        "hobbie-text2": "Me encanta viajar, conocer nuevas culturas, costumbres, idiomas, comida, etc."
+    },
+
+    "skills": {
+        "sector": "Desarrollo Front End",
+        "years": "Años de experiencia",
+        "rol": "Diseño",
+        "photography": "Fotografía"
+    },
+
+    "projects": {
+        "text-blog": "Web que utilizo para escribir artículos sobre tecnología, análisis de productos, aplicaciones, noticias, etc. También enseño el equipo que utilizo para trabajar, ocio y hacer videos.",
+        "title-canalyt": "Creador de Contenido en YouTube: Cybertecnics",
+        "text-canalyt": "Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos para YouTube, llevando la producción y edición de fotografía y video, creo contenido en redes sociales, utilizando estrategias de marketing online.",
+        "text-portfolio": "Portfolio con un diseño diferente a este.",
+        "title-recipes": "Web Recetas de Café",
+        "text-recipes": "Esta es una web que hice para practicar con CSS Flex.",
+        "title-frontstore": "Tienda Camisetas Frontend",
+        "text-frontstore": "Esta web la hice para practicar con CSS Grid.",
+        "title-banner": "Banner de mi canal de YouTube",
+        "text-banner": "Este banner lo hice utilizando Adobe Protoshop, para humanizar más mi canal, antes tenía un logo y para que se viera desde el principio quien esta detrás de la cámara.",
+        "title-oldbanner": "Antiguo Banner de mi canal de YouTube",
+        "text-oldbanner": "Lo hice utilizando Adobe Protoshop, este fue uno de las primeras portadas que hice, este banner ya no está disponibles.",
+        "title-miniatures": "Miniaturas para el canal de YouTube",
+        "text-miniatures" : "Creacion de miniaturas para los videos de YouTube que he ido subiendo a mi canal. He aplicado mis conocimientos en diseño y marketing digital para hacer unas miniaturas lo mas atractivas posible.",
+        "title-photomontage": "Fotomonjate",
+        "text-photomontage" : "Creación de fotomontaje, siempre me ha gustado hacer retoque fotográfico y quería representar la interacción que tenemos con las redes sociales.",
+        "title-photomontage2": "Fotomonjate",
+        "text-photomontage2" : "Creación de fotomontaje, soy un gran fan de los helados y probando con una foto que tenía, salió esto y la verdad que no ha quedado nada mal.😄"
     }
 }

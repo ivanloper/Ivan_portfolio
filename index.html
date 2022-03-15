@@ -100,7 +100,7 @@
 
 
     <article class="card card--experience">
-      <h2 class="card__title">Experiencia</h2>
+      <h2 class="card__title" data-section="experience" data-value="prof">Experiencia</h2>
       <div class="experience">
         <img src="assets/images/youtube.png" alt="logo" class="experience__image">
         <div class="experience__info">
@@ -117,7 +117,7 @@
     </article>
 
     <article class="card card--experience">
-      <h2 class="card__title">Experiencia</h2>
+      <h2 class="card__title"></h2>
       <div class="experience">
         <img src="assets/images/company.png" alt="logo" class="experience__image">
         <div class="experience__info">
@@ -137,17 +137,27 @@
       <div class="card__image-container">
         <img src="assets/images/proyector.jpg" alt="cartel de cine">
       </div>
-      <h3 class="hobbie__title" data-section="hobbies" data-value="hobbie-title">Cine y series</h3>
+      <h3 class="hobbie__title" data-section="hobbies" data-value="hobbie-title">Cine y series🎥🎬</h3>
       <p class="card__text"> Soy un fanático del cine al aire libre y en sala y de las series, tanto que tengo un proyector para disfrutar de una mejor experiencia. </p>
     </article>
+
+    <article class="card card--hobbies">
+      <h2 class="card__title" data-section="hobbies" data-value="section"></h2>
+      <div class="card__image-container">
+        <img src="assets/images/viaje.jpg" alt="cartel de cine">
+      </div>
+      <h3 class="hobbie__title" data-section="hobbies" data-value="hobbie-title2">Viajar🌍</h3>
+      <p class="card__text" data-section="hobbies" data-value="hobbie-text2"> Me encanta viajar, conocer nuevas culturas, costumbres, idiomas, comida, etc. </p>
+    </article>
+
   </section>
   <section class="column column--right">
     <article class="card">
-      <h2 class="card__title">
+      <h2 class="card__title" data-section="skills" data-value="sector">
         Desarrollo Front End
       </h2>
 
-      <small>Años de experiencia:</small>
+      <small data-section="skills" data-value="years">Años de experiencia:</small>
     <div class="skills">
       <div class="skills__header">
         <span class="skills__start-level">0</span>
@@ -179,7 +189,7 @@
     </article>
 
     <article class="card">
-      <h2 class="card__title">
+      <h2 class="card__title" data-section="skills" data-value="rol">
         Diseño
       </h2>
       <div class="skills">
@@ -211,7 +221,7 @@
       </h2>
       <div class="skills">
         <div class="skills__item">
-          <p class="skills__tech">Photography</p>
+          <p class="skills__tech" data-section="skills" data-value="photography">Fotografía</p>
           <div class="skills__bar skills__bar--70"> </div>
         </div>
 
@@ -244,8 +254,8 @@
           <span class="project__tag">#CSS</span>
           <span class="project__tag">#PHP</span>
         </div>
-          <h2 class="card__title">Blog</h2>
-          <p class="card__text"> Web que utilizo para escribir artículos sobre tecnología,   análisis de productos, aplicaciones, noticias, etc. También enseño el equipo que utilizo para trabajar, ocio y hacer videos.</p>
+          <h2 class="card__title">Blog Cybertecnics</h2>
+          <p class="card__text" data-section="projects" data-value="text-blog"> Web que utilizo para escribir artículos sobre tecnología,   análisis de productos, aplicaciones, noticias, etc. También enseño el equipo que utilizo para trabajar, ocio y hacer videos.</p>
          
           <div class="buttons">
             <a href="https://cybertecnics.com/" target="_blank" class="button button--primary">Demo</a>
@@ -262,8 +272,8 @@
           <span class="project__tag">#Youtube</span>
           
         </div>
-          <h2 class="card__title">Creador de Contenido en YouTube: Cybertecnics</h2>
-          <p class="card__text"> Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos para YouTube, llevando la producción y edición de fotografía y video, creo contenido en redes sociales, utilizando estrategias de marketing online.</p>
+          <h2 class="card__title" data-section="projects" data-value="title-canalyt">Creador de Contenido en YouTube: Cybertecnics</h2>
+          <p class="card__text" data-section="projects" data-value="text-canalyt"> Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos para YouTube, llevando la producción y edición de fotografía y video, creo contenido en redes sociales, utilizando estrategias de marketing online.</p>
           
           <div class="buttons">
             <a href="#" class="button button--primary">Demo</a>
@@ -282,7 +292,7 @@
           <span class="project__tag">#JavaScript</span>
         </div>
           <h2 class="card__title">Portfolio</h2>
-          <p class="card__text"> Portfolio con un diseño diferente a este.</p>
+          <p class="card__text" data-section="projects" data-value="text-portfolio"> Portfolio con un diseño diferente a este.</p>
          
           <div class="buttons">
             <a href="https://ivanlopez.netlify.app/" target="_blank" class="button button--primary">Demo</a>
@@ -301,8 +311,9 @@
           <span class="project__tag">#CSS</span>
           <span class="project__tag">#CSS Flex</span>
         </div>
-          <h2 class="card__title">Recetas de Café</h2>
-          <p class="card__text"> Esta es una web que hice para practicar con CSS Flex.</p>
+          <h2 class="card__title" data-section="projects" data-value="title-recipes">Web Recetas de Café</h2>
+          <p class="card__text" data-section="projects" data-value="text-recipes"> Esta es una web que hice para practicar con CSS Flex.</p>
+
           <div class="buttons">
             <a href="https://recetasdecafe.netlify.app/" target="_blank" class="button button--primary">Demo</a>
             <a href="https://github.com/ivanloper/BlogDeCafe" target="_blank" class="button button--ghost">Code</a>
@@ -320,8 +331,8 @@
           <span class="project__tag">#CSS</span>
           <span class="project__tag">#CSS Grid</span>
         </div>
-          <h2 class="card__title">Tienda Camisetas Frontend</h2>
-          <p class="card__text"> Esta web la hice para practicar con CSS Grid.</p>
+          <h2 class="card__title" data-section="projects" data-value="title-frontstore">Tienda Camisetas Frontend</h2>
+          <p class="card__text" data-section="projects" data-value="text-frontstore"> Esta web la hice para practicar con CSS Grid.</p>
           <div class="buttons">
             <a href="https://camisetasfrontend.netlify.app/" target="_blank" class="button button--primary">Demo</a>
             <a href="https://github.com/ivanloper/FrontendStore" target="_blank" class="button button--ghost">Code</a>
@@ -339,8 +350,8 @@
           <span class="project__tag">#Protoshop</span>
           <span class="project__tag">#Diseño</span>
         </div>
-          <h2 class="card__title">Banner de mi canal de YouTube</h2>
-          <p class="card__text"> Este banner lo hice utilizando Adobe Protoshop, para humanizar más mi canal, antes tenía un logo y para que se viera desde el principio quien esta detrás de la cámara.</p>
+          <h2 class="card__title" data-section="projects" data-value="title-banner">Banner de mi canal de YouTube</h2>
+          <p class="card__text" data-section="projects" data-value="text-banner"> Este banner lo hice utilizando Adobe Protoshop, para humanizar más mi canal, antes tenía un logo y para que se viera desde el principio quien esta detrás de la cámara.</p>
           <div class="buttons">
             <a href="https://www.youtube.com/c/Cybertecnics/" target="_blank" class="button button--primary">Demo</a>
           </div>
@@ -357,8 +368,8 @@
           <span class="project__tag">#Protoshop</span>
           <span class="project__tag">#Diseño</span>
         </div>
-          <h2 class="card__title">Antiguo Banner de mi canal de YouTube</h2>
-          <p class="card__text">Este banner lo hice utilizando Adobe Protoshop, este fue uno de las primeras portadas que hice, este banner ya no está disponibles.</p>
+          <h2 class="card__title" data-section="projects" data-value="title-oldbanner">Antiguo Banner de mi canal de YouTube</h2>
+          <p class="card__text" data-section="projects" data-value="text-oldbanner">Lo hice utilizando Adobe Protoshop, este fue uno de las primeras portadas que hice, este banner ya no está disponibles.</p>
           <div class="buttons">
             <a href="https://www.youtube.com/c/Cybertecnics/" target="_blank" class="button button--primary">Demo</a>
           </div>
@@ -375,8 +386,8 @@
           <span class="project__tag">#Protoshop</span>
           <span class="project__tag">#Diseño</span>
         </div>
-          <h2 class="card__title">Miniaturas para el canal de YouTube</h2>
-          <p class="card__text"> Creacion de miniaturas para los videos de YouTube que he ido subiendo a mi canal.
+          <h2 class="card__title" data-section="projects" data-value="title-miniatures">Miniaturas para el canal de YouTube</h2>
+          <p class="card__text" data-section="projects" data-value="text-miniatures"> Creacion de miniaturas para los videos de YouTube que he ido subiendo a mi canal.
           He aplicado mis conocimientos en diseño y marketing digital para hacer unas miniaturas lo mas atractivas posible.</p>
           <div class="buttons">
             <a href="https://www.youtube.com/c/Cybertecnics/videos" target="_blank" class="button button--primary">Demo</a>
@@ -394,8 +405,8 @@
           <span class="project__tag">#Protoshop</span>
           <span class="project__tag">#Diseño</span>
         </div>
-          <h2 class="card__title">Fotomonjate</h2>
-          <p class="card__text">Creación de fotomontaje, siempre me ha gustado hacer retoque fotográfico y quería representar la interacción que tenemos con las redes sociales. </p>
+          <h2 class="card__title" data-section="projects" data-value="title-photomontage">Fotomonjate</h2>
+          <p class="card__text" data-section="projects" data-value="text-photomontage">Creación de fotomontaje, siempre me ha gustado hacer retoque fotográfico y quería representar la interacción que tenemos con las redes sociales. </p>
           <div class="buttons">
             <a href="https://www.instagram.com/p/CNA2EDwpihV/" target="_blank" class="button button--primary">Demo</a>
           </div>
@@ -412,8 +423,8 @@
           <span class="project__tag">#Protoshop</span>
           <span class="project__tag">#Diseño</span>
         </div>
-          <h2 class="card__title">Fotomonjate</h2>
-          <p class="card__text">Creación de fotomontaje, soy un gran fan de los helados y probando con una foto que tenía, salió esto y la verdad que no ha quedado nada mal.😄 </p>
+          <h2 class="card__title" data-section="projects" data-value="title-photomontage2">Fotomonjate</h2>
+          <p class="card__text" data-section="projects" data-value="text-photomontage2">Creación de fotomontaje, soy un gran fan de los helados y probando con una foto que tenía, salió esto y la verdad que no ha quedado nada mal.😄 </p>
           <div class="buttons">
             <a href="https://www.instagram.com/p/B_dSIRYAEib/" target="_blank" class="button button--primary">Demo</a>
           </div>
