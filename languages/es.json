@@ -2,11 +2,14 @@
     "profile": {
     "lightmode": "Modo claro",
     "darkmode": "Modo Oscuro",
-    "rol": "Técnico de sistemas | Diseñador",
+    "rol": "Webmaster | Diseñador | Técnico de sistemas",
     "description": "Hola mi nombre es Iván, soy un apasionado de la tecnología, cine y de los viajes, estudie Informática. Me considero una persona polifacética, he hecho diseño, desarrollo web, marketing digital edición de fotografía y vídeo o al menos lo intento.😄😄<br><br> Aquí abajo👇👇puedes conocer un poco más de lo que he trabajado."
     },
     "experience": {
         "prof": "Experiencia",
+        "first-job-title": "Webmaster y Técnico SEO",
+        "first-job-dates": "IVF-LIFE <br>Marzo 2022 - Actualidad",
+        "first-job-description": "Gestión, auditorias SEO para web y RRSS con SEMRUSH, Ahref y Google Analytics. Migración de webs. Administración de Dominios y Hosting.",
         "second-job-title": "Creador de contenido",
         "second-job-dates": "YouTube channel: Cybertecnics<br> January 2016 - Actualidad ",
         "second-job-description": "Enseño trucos, consejos y análisis de productos que te ayudan en tu día a día, todo esto lo hago en formato de videos.",
