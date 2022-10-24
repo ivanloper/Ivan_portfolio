@@ -164,7 +164,7 @@ body.dark {
 
 .card__title {
     margin-bottom:1em;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .card__subtitle {
@@ -172,8 +172,8 @@ body.dark {
     opacity:0.8;
 }
 
-.card__links {
-    margin-bottom: 0.5em;
+.card__link {
+    padding-bottom: 0.2em;
 }
 
 .card__text {
@@ -328,7 +328,7 @@ body.dark {
     padding: 0.4em 0.8em;
     border-radius: var(--border-radius);
     background-color: var(--primary-color);
-    color: var(--bg-color);
+    color: white;
     transition: var(--transition);
 }
 
@@ -336,6 +336,7 @@ body.dark {
     display: flex;
     justify-content: space-between;
     width: 225px;
+    font-weight: bold;    
 }
 
 /*
@@ -359,7 +360,7 @@ Botones de escritorio
 
 .button--primary{
     background-color: var(--primary-color);
-    color: var(--bg-color);
+    color: white;
 }
 
 .button--ghost{
