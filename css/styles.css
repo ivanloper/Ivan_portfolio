@@ -66,7 +66,7 @@ body.dark {
 }
 
 .toggle-theme__text {
-    font-size: 0.8rem;
+    font-size: .8rem;
 }
 
 .flags {
@@ -168,7 +168,7 @@ body.dark {
 }
 
 .card__subtitle {
-    font-size: 0.9rem;
+    font-size: .9rem;
     opacity:0.8;
 }
 
@@ -177,7 +177,7 @@ body.dark {
 }
 
 .card__text {
-    font-size: 0.9rem;
+    font-size: .9rem;
     line-height: 1.6;
 }
 
@@ -202,7 +202,7 @@ body.dark {
 
 .skills__tech{ 
     margin: 0;
-    font-size: 0.8rem;
+    font-size: .8rem;
 }
 
 .skills__item {
@@ -283,7 +283,7 @@ body.dark {
 }
 
 .experience__time{
-    font-size:0.8rem;
+    font-size:.8rem;
     margin-bottom: 0.5em;
 }
 
@@ -313,14 +313,14 @@ body.dark {
     display: flex;
     justify-content: space-between;
     margin: 0.5em 0;
-    font-size: 0.5rem;
+    font-size: .5rem;
     width: 275px;
 }
 
 @media screen and (min-width: 760px) {
     .project__tags {
         width: 325px;
-        font-size: 0.8rem;
+        font-size: .8rem;
     }
 }
 
